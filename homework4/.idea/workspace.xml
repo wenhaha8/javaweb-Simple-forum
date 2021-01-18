@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="homework4:war exploded" />
+      <artifact name="homework4:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c45770c-3e5d-4a8c-839a-e6d2cfddb87b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/AddNewsServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/AddNewsServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/AddUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/AddUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/DeleteDisServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/DeleteDisServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/DeleteNewsServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/DeleteNewsServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/DeleteUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/DeleteUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/ListOfDisServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/ListOfDisServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/ListOfNewsManagerServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/ListOfNewsManagerServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/ModifyUserBeforeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/ModifyUserBeforeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/ModifyUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/ModifyUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/addDiscussionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/controller/addDiscussionServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/dao/impl/ManagerDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/dao/impl/ManagerDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/filter/EncodingFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/filter/EncodingFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/filter/LoginFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/filter/LoginFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/module/Discussion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/module/Discussion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/module/News.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/module/News.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/cdu/wenhao/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/addUser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/addUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/disListOfManager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/disListOfManager.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/managerFuc.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/managerFuc.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/managerInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/managerInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/managerPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/managerPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/newsListOfManager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/newsListOfManager.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/userList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/manager/userList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/user/addNews.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/user/addNews.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/user/forum.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/user/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/user/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/user/newsList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/user/newsList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/user/online.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/user/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/user/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/WEB-INF/classes/user/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/addUser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/addUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/disListOfManager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/disListOfManager.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/managerFuc.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/managerFuc.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/managerInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/managerInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/managerPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/managerPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/newsListOfManager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/newsListOfManager.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/userList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/manager/userList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/photo/司凤璇玑.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/photo/小雪人.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/user/addNews.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/user/addNews.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/user/forum.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/user/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/user/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/user/newsList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/user/newsList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/user/online.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/user/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/user/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/user/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/AddNewsServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/AddNewsServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/AddUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/AddUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/DeleteDisServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/DeleteDisServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/DeleteNewsServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/DeleteNewsServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/DeleteUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/DeleteUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/ModifyUserBeforeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/ModifyUserBeforeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/ModifyUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/ModifyUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/RegisterServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/RegisterServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/addDiscussionServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/controller/addDiscussionServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/dao/impl/ManagerDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/dao/impl/ManagerDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/filter/LoginFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/filter/LoginFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/module/Discussion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/module/Discussion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/module/News.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/module/News.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/cdu/wenhao/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/manager/addUser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/manager/addUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/manager/managerFuc.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/manager/managerFuc.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/manager/managerInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/manager/managerInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/manager/managerPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/manager/managerPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/manager/newsListOfManager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/manager/newsListOfManager.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/manager/userList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/manager/userList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/user/addNews.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/user/addNews.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/user/forum.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/user/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/user/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/user/newsList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/user/newsList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/user/online.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/user/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/homework4/user/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/homework4/user/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/controller/AddNewsServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/controller/AddNewsServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/controller/AddUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/controller/AddUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/controller/DeleteDisServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/controller/DeleteDisServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/controller/DeleteNewsServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/controller/DeleteNewsServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/controller/DeleteUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/controller/DeleteUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/controller/ListOfDisServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/controller/ListOfDisServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/controller/ListOfNewsManagerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/controller/ListOfNewsManagerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/controller/ModifyUserBeforeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/controller/ModifyUserBeforeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/controller/ModifyUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/controller/ModifyUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/controller/RegisterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/controller/RegisterServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/controller/addDiscussionServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/controller/addDiscussionServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/dao/impl/ManagerDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/dao/impl/ManagerDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/filter/EncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/filter/EncodingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/filter/LoginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/filter/LoginFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/module/Discussion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/module/Discussion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/module/News.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/module/News.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cdu/wenhao/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cdu/wenhao/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manager/addUser.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/manager/addUser.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manager/disListOfManager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/manager/disListOfManager.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manager/managerFuc.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/manager/managerFuc.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manager/managerInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/manager/managerInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manager/managerPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/manager/managerPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manager/newsListOfManager.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/manager/newsListOfManager.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manager/userList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/manager/userList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/user/addNews.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/user/addNews.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/user/forum.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/user/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/user/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/user/newsList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/user/newsList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/user/online.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/manager/online.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/user/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/user/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/user/success.jsp" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1kDWJJYH0gD9J1Vy36SoWENc3al" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/homework4_war_exploded/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\IDEA-projects\homework4\web\manager" />
+      <recent name="D:\Java\IDEA-projects\homework4\web\user" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cdu.wenhao.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\IDEA-projects\homework4\out\artifacts\homework4_war_exploded\images" />
+      <recent name="D:\Java\IDEA-projects\homework4\web\images" />
+      <recent name="D:\Java\IDEA-projects\homework4\web\manager" />
+      <recent name="D:\Java\IDEA-projects\homework4\web\photo" />
+      <recent name="D:\Java\IDEA-projects\homework4\web\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.0.33" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.33" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="homework4:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/homework4_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_homework4_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49461" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="homework4:war exploded" />
+          <artifact name="homework4:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_homework4" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49461" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c45770c-3e5d-4a8c-839a-e6d2cfddb87b" name="Default Changelist" comment="" />
+      <created>1605235568717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605235568717</updated>
+      <workItem from="1605235572176" duration="416000" />
+      <workItem from="1605236049324" duration="9409000" />
+      <workItem from="1605491381387" duration="3824000" />
+      <workItem from="1605496887027" duration="4162000" />
+      <workItem from="1605520655070" duration="6317000" />
+      <workItem from="1605528749293" duration="38000" />
+      <workItem from="1605536355189" duration="956000" />
+      <workItem from="1605586102175" duration="331000" />
+      <workItem from="1605586770458" duration="4892000" />
+      <workItem from="1605671038834" duration="800000" />
+      <workItem from="1605788632061" duration="3437000" />
+      <workItem from="1605839311815" duration="8791000" />
+      <workItem from="1605860513918" duration="123000" />
+      <workItem from="1606033623698" duration="1967000" />
+      <workItem from="1606097269184" duration="1477000" />
+      <workItem from="1606129078175" duration="931000" />
+      <workItem from="1606447781288" duration="1719000" />
+      <workItem from="1606462325682" duration="3063000" />
+      <workItem from="1606537221376" duration="605000" />
+      <workItem from="1606548249543" duration="69000" />
+      <workItem from="1606548348959" duration="1400000" />
+      <workItem from="1606550192988" duration="647000" />
+      <workItem from="1606553448649" duration="1178000" />
+      <workItem from="1606559416505" duration="176000" />
+      <workItem from="1606613712111" duration="26000" />
+      <workItem from="1606613795838" duration="2086000" />
+      <workItem from="1606630333035" duration="635000" />
+      <workItem from="1606718487696" duration="214000" />
+      <workItem from="1607656232854" duration="5001000" />
+      <workItem from="1607669139828" duration="7586000" />
+      <workItem from="1607997604570" duration="11419000" />
+      <workItem from="1608107221121" duration="51000" />
+      <workItem from="1608551267419" duration="4845000" />
+      <workItem from="1608723778835" duration="50000" />
+      <workItem from="1608887382750" duration="2744000" />
+      <workItem from="1609056608570" duration="86000" />
+      <workItem from="1609056750942" duration="12000" />
+      <workItem from="1609057587458" duration="28000" />
+      <workItem from="1609057664853" duration="7849000" />
+      <workItem from="1609077794084" duration="2060000" />
+      <workItem from="1609124741708" duration="21927000" />
+      <workItem from="1609153295547" duration="6181000" />
+      <workItem from="1609228292413" duration="5465000" />
+      <workItem from="1609316198019" duration="1388000" />
+      <workItem from="1609377851966" duration="1989000" />
+      <workItem from="1609393378933" duration="5776000" />
+      <workItem from="1609429135562" duration="91000" />
+      <workItem from="1609491955469" duration="7275000" />
+      <workItem from="1609811896973" duration="20414000" />
+      <workItem from="1609897355861" duration="12177000" />
+      <workItem from="1609997665946" duration="6428000" />
+      <workItem from="1610068732555" duration="8000" />
+      <workItem from="1610068765439" duration="7000" />
+      <workItem from="1610068793150" duration="79000" />
+      <workItem from="1610068901538" duration="16129000" />
+      <workItem from="1610183372517" duration="8208000" />
+      <workItem from="1610238585128" duration="19076000" />
+      <workItem from="1610264239849" duration="12571000" />
+      <workItem from="1610280359227" duration="6459000" />
+      <workItem from="1610330218326" duration="6772000" />
+      <workItem from="1610345540201" duration="7932000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

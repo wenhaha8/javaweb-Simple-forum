@@ -1,0 +1,38 @@
+html{
+    padding: 0;
+    font-size: 1rem;
+}
+body{
+    background-color: gainsboro;
+    padding: 0;
+}
+
+#header{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    margin: 0 0 0 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+#display_filed{
+    width: 60%;
+    margin: auto;
+}
+
+.aNews{
+    background-color: white;
+    margin: 0 0 20px 0;
+    padding: 0 0 10px 0;
+    box-shadow: 10px 10px 5px darkgrey;
+}
+
+.aNewsContent{
+    font-size:1.44rem;
+}
+
+input{
+    required:required;
+}

@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+table{
+    margin: auto;
+}
+
+#tb{
+    margin: auto;
+}
+
+.id{
+    width:8rem;
+}
+
+.name{
+    width: 10rem;
+}
+
+.pwd{
+    width: 10rem
+}
+
+.mod,.del{
+    width: 10rem;
+}
